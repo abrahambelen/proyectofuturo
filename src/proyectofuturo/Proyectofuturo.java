@@ -1,5 +1,5 @@
 package proyectofuturo;
-
+//Abraham Belén Durán
 public class Proyectofuturo {
     
     static String veredicto(String valor1, String valor2) {
